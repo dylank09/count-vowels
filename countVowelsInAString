@@ -1,5 +1,5 @@
 
-public class loopingPractice {
+public class countVowelsInAString {
 	public static void main(String [] args) {
 		
 			int i = 0, count = 0;
