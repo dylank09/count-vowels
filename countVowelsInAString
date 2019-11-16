@@ -8,7 +8,7 @@ public class countVowelsInAString {
 			String s = "How are you today";
 			
 			
-			while (i < s.length()) {   //note!!! if you put in <= instead then it will give an error 
+			while (i < s.length()) {
 				
 				if (vowels.indexOf(s.charAt(i)) !=-1 ) {
 				
